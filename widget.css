@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container1{
+    background-color: palevioletred;
+    height: 100%;
+    width: 100%;
+}
+.container{
+    margin-bottom: 500px;
+
+}
+/* .cont{
+    background-color: palevioletred;
+} */
+img{
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    opacity: 1.5;
+    background-size: 100%;
+    position: absolute;
+}
+h1{
+    color: rgb(234, 204, 173);
+    font-family: 'sriracha', cursive;
+    font-family: 'Roboto', sans-serif;;
+    text-align: center;
+    margin: auto;
+    background-color: palevioletred;
+
+ 
+}
+p{
+    color: rgb(234, 204, 173);
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    background-color: palevioletred;
+
+}
+h4{
+    color: rgb(234, 204, 173);
+    background-color: palevioletred;
+
+}
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gainsboro;
+    margin-top: 30px;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    background-color: palevioletred;
+    background-color: palevioletred;
+
+}
+.kiss{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 700px;
+    height: 500px;
+    align-items: center;
+    justify-self: center;
+    justify-content: center;
+    background-color: palevioletred;
+    margin: auto;
+    margin-left: 300px;
+
+}
+.container2{
+    margin-top: 600px;
+    height: 700px;
+
+
+}
+.flowers{
+    width: 100%;
+    height: 80%;
+    z-index: -1;
+    opacity:1.5;
+    
+}
+.container2 h1{
+    color: white;
+    align-items: center;
+    background-color: palevioletred;
+
+}
+h4{
+    text-align: center;
+    color: white;
+    align-items: center;
+    background-color: palevioletred;
+
+}
+.dining{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 400px;
+    width: 800px;
+    justify-items: center;
+    justify-self: center;
+    margin: auto;
+    margin-left: 250px;
+}
+.container3{
+    margin-top: -200px;
+}
+
+.container4{
+    display: flex;
+    flex-direction: row;
+    gap: 150px;
+    margin-top: 500px;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    margin-left: 200px;
+    height: 300px;
+    width: 100%;
+    background-color: palevioletred;
+
+}
+.div1, .div2{
+    line-height: 50px;
+    color:grey;
+    background-color: palevioletred;
+    font-size: 25px;
+}
+.container5{
+    height: 200px;
+    width: 100%;
+    line-height: 70px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    color: black;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color:salmon;
+    justify-content: center;
+    align-items: center;
+    margin-left: 550px;
+
+}
+button:hover{
+    background-color: grey;
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+}
+h4{
+
+    color: rgb(234, 204, 173);
+}
